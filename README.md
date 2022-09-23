@@ -18,7 +18,7 @@ Both circles rotate clockwise.
 
 Epicycles can be represented as complex Fourier series; so, with a large number of epicycles, very complicated trajectories can be represented in the complex plane.4
 
-![Epicycles](https://github.com/Fur-Trappers/Modeling-and-Simulation/edit/main/epicycles.png)
+![Epicycles](https://github.com/Fur-Trappers/Modeling-and-Simulation/edit/main/epicycles.jpg)
 
 # Objectives
 
