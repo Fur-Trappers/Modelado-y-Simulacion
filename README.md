@@ -9,3 +9,13 @@ Final Project of Modeling and Simulation class, taught by [Dr. Victor de la Luz]
 - [Sofia De La Rosa](https://github.com/SofiaDeLaRosa) (<chapatulita@gmail.com>)
 
 ### Fur-Trappers/Modeling-and-Simulation is licensed under the MIT License see [LICENSE](https://github.com/Fur-Trappers/Modeling-and-Simulation/edit/main/LICENSE) for details
+
+
+# Introduction
+
+
+# Objectives
+
+The aim of this project is
+
+# Toolset
