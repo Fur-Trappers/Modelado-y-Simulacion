@@ -22,7 +22,7 @@ Epicycles can be represented as complex Fourier series; so, with a large number 
 
 # Objectives
 
-The aim of this project is simulate the interaction between Earth and at least two planets using n-body model and Fourier sieres.
+The aim of this project is simulate the movement, speed, change of direction of the planets Mercury and Venus using the Earth's geocentric system of their interior epicycles using n-body model and Fourier series, and make a graph in order to differentiate their characteristics.
 
 # Reference
 
