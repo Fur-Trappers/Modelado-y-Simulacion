@@ -13,9 +13,15 @@ Final Project of Modeling and Simulation class, taught by [Dr. Victor de la Luz]
 
 # Introduction
 
+In the second century, Claudius Ptolomy, in his treatise 'Almagest', unveiled his concept of geocentric universe, in which the Sun, Moon, stars, and planets all orbit Earth. Each planet is moved in a small circle called the epicycle which, in turn, moves along a larger circle called the deferent. 
+Both circles rotate clockwise.
+
+Epicycles can be represented as complex Fourier series; so, with a large number of epicycles, very complicated trajectories can be represented in the complex plane.
 
 # Objectives
 
 The aim of this project is
 
-# Toolset
+# Reference
+
+[https://es.wikipedia.org/wiki/Epiciclo](https://es.wikipedia.org/wiki/Epiciclo)
